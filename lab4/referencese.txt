@@ -1,0 +1,11 @@
+import datetime 
+
+x = datetime.datetime.now()
+
+y = datetime.datetime(2024,6,12)
+print(y.strftime("%Z"))
+
+# print(x.year)
+
+# print(x.strftime("%A"))
+
